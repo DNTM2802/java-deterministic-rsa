@@ -42,7 +42,7 @@ The randgen module can be used to:
 #### Benchmarking
 
 The program will perform 28 setups of the PRBG for each combination of confusion string size [1-4] / iteration count [1, 5, 10, 20, 50, 100, 200].
-The statistical outputs will be saved in the form of an histogram (`t_per_cs_icX.png`) and of a text file (`times-YYYY-MM-DD_HH-mm-SS.txt`), in the source folder.
+The statistical outputs will be saved in the form of an histogram (`t_per_cs_icX.png`) and of a text file (`times-YYYY-MM-DD_HH-mm-SS.txt`), in the root folder.
 
 To perform benchmarking, run:
 
