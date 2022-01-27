@@ -18,6 +18,7 @@ sudo apt install openjdk-11-jdk
 
 Compile all the classes with the following command:
 ```bash
+mkdir out
 javac -cp external/bcprov-jdk15on-170.jar:external/commons-cli-1.3.1.jar:external/jfreechart-1.5.3.jar src/drsa/*.java src/drsa/utils/*.java -d out
 ```
 
