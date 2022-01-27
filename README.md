@@ -1,7 +1,7 @@
 
 # Deterministic RSA (DRSA) with Java
 
-A DRSA module capable of generating deterministic keys and a PNBG (Pseudo-Random Byte Generator) done with Java.
+A DRSA module capable of generating deterministic keys and a PRBG (Pseudo-Random Byte Generator) done with Java.
 
 
 
