@@ -129,7 +129,7 @@ openssl rsa -check -noout -in java_512_priv_key.pem -text
 ```
 ## Authors
 
-- [Duarte Mortágua - 92963](mailto:duarte.ntm@ua.pt)
+- [Duarte Mortágua](mailto:duarte.ntm@ua.pt)
 
 
 ## Bugs
